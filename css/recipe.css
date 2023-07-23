@@ -1,0 +1,96 @@
+body {
+    background-color: silver;
+}
+#img1 {
+    position:relative;
+    top:5%;
+    z-index:-1;
+    height: 450px;
+    width: 1000px;
+    margin-left: 150px;
+}
+
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:xx-large;    
+}
+#div1 {
+    
+    border: 5px solid rgb(81, 81, 158);
+    padding-left: 90px;
+    padding-right: 50px;
+    margin-left: 100px;
+    
+    margin-right: 100px;
+    background-color: black;
+    color:aliceblue;
+
+   }
+.Highlights {
+    text-decoration: dotted;
+    text-align: center;
+    
+}
+.bullet-list li {
+    display: inline-block; 
+  margin-right: 20px; 
+    }
+
+#p1 {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    padding-left: 90px;
+}
+#p2 {
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+#img2 {
+    float :left;
+    padding-left: 100px;
+    height: 300px;
+    width: 40%;
+}
+
+#p2 {
+    margin-left: 50%;;
+    padding-right: 100px;
+    width: 500px;
+    padding-left: 50px;
+    text-align: center;
+    font-size: large;
+}
+
+#heading1
+{
+    padding-top: 60px;
+}
+
+#img3 {
+    float :left;
+    padding-left: 100px;
+    height: 300px;
+    width: 40%;
+}
+
+#p3 {
+    margin-left: 50%;;
+    padding-right: 100px;
+    width: 500px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: large;
+}

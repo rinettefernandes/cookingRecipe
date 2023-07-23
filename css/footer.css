@@ -1,0 +1,34 @@
+#footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:100px;
+    background:#6cf;
+    margin:0;
+}
+img{
+       position:absolute;
+       left:5%;
+       bottom:7%;
+}
+#copyright{
+    position:absolute;
+    left:40%;
+    bottom:35%;
+}
+a{
+    text-decoration:none;
+}
+#privacy
+{
+    position:absolute;
+    left:39.5%;
+    bottom:15%;
+
+}
+body {
+    width:100%;
+    height:100%;
+    margin:0;
+}
+
